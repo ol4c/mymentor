@@ -1,0 +1,15 @@
+*{
+    background: #E8DFCA;
+}
+.text{
+    color: #1A4D2E;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#par{
+    color:#4F6F52
+}
+#hint{
+    color: #E8DFCA;
+    margin-top: 50%;
+}
